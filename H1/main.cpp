@@ -7,8 +7,6 @@ void calcDiv(float a, float b);
 int retSum(int a, int b);
 float retDiv(float a, float b);
 
-
-
 int main()
 {
     int a,b;
